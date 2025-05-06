@@ -27,6 +27,6 @@ Sorting is no longer just code—it’s a **visual symphony of logic and movemen
 And because, in the end, coding isn’t just about syntax—it’s about **seeing the invisible patterns** behind everything.  
 
 Welcome to Sortify.  
-Let’s make learning **beautiful.** 💙  
+Let’s make learning **beautiful.** 
 
 ---
